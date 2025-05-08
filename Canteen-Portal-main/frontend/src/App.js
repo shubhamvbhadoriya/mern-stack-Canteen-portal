@@ -14,6 +14,9 @@ import AddFoodItem from "./components/vendor/AddItem";
 import BuyerOrders from "./components/buyer/myOrders"
 import VendorOrders from "./components/vendor/myOrders";
 import Statistics from "./components/vendor/statistics"
+Import statistics from "./components>/buyer/usrmanaul"
+import login form"./compoents>/navbar?contaierner"
+
  
 const Layout = (props) => {
   return (
